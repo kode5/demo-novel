@@ -5,3 +5,11 @@ Nick Carraway - Our narrator and guide throughout the story.
 Daisy Buchanan - a beautiful woman from Louisville.
 	
 Thomas "Tom" Buchanan - a milionare who lives in East E
+
+Myrtle Wilson
+Tom's lover, whose lifeless husband George owns a
+run-down garage in the valley of ashes.
+
+George Wilson
+Myrtle's husband, the lifeless, exhausted owner of a 
+run-down auto shop at the edge of the valley of ashes.
